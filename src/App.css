@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+a:link {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 4px;
+  border-radius: 10px;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+  background-color: white;
+}
+
+.searchBox {
+  /* background-color: red; */
+  padding: 20px 0px 20px 0px;
+}
